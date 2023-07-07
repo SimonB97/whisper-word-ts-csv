@@ -73,7 +73,7 @@ Here's what each argument does:
 
 ## Configuration
 
-You can configure the script by modifying the following variables at the top of the script:
+You can configure the script by modifying the following variables at the top of the script (or by passing arguments, see above):
 
 - `model`: The Whisper model to use. Options include 'tiny', 'base', 'small', 'medium', and 'large'. The default is 'small'.
 - `max_duration`: The maximum duration of the audio file in seconds. The default is 600.
