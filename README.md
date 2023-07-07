@@ -78,6 +78,7 @@ You can configure the script by modifying the following variables at the top of 
 - `model`: The Whisper model to use. Options include 'tiny', 'base', 'small', 'medium', and 'large'. The default is 'small'.
 - `max_duration`: The maximum duration of the audio file in seconds. The default is 600.
 - `rows_out`: The number of rows to print in the output DataFrame for quick inspection. The default is 30.
+- `language`: The languag of the audio file.
 
 ## Contributing
 
