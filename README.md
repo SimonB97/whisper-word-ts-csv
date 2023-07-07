@@ -1,6 +1,6 @@
 # Whisper Word Timestamps
 
-This repository contains a Python script that uses OpenAI's Whisper ASR system to transcribe audio files and provide word-level timestamps. The script is designed to be flexible and allows you to choose from different Whisper models, specify the language of the audio, and set the maximum duration of the audio file. This project is largely based on [this Hugging Face project](https://huggingface.co/spaces/Matthijs/whisper_word_timestamps) and is modified to output a CSV file with words and timestamps.
+This repository contains a Python script that uses OpenAI's Whisper ASR system to transcribe audio files and provide word-level timestamps. The script is designed to be flexible and allows you to choose from different Whisper models, specify the language of the audio, and set the maximum duration of the audio file. This project is largely based on [the HuggingFace Space by Matthijs](https://huggingface.co/spaces/Matthijs/whisper_word_timestamps) and is modified to output a CSV file with words and timestamps.
 
 ## Table of Contents
 
