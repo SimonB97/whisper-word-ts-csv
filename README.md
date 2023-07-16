@@ -59,7 +59,7 @@ pip install -r requirements.txt
 You can run the script from the command line using the following syntax:
 
 ```bash
-python transcribe.py --audio <path/to/audio> --language <language> --length <length> --model <model>
+python main.py --audio <path/to/audio> --language <language> --length <length> --model <model>
 ```
 
 Here's what each argument does:
